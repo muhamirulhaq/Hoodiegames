@@ -1,5 +1,5 @@
 # **Hoodie Games**
-## [Let's Get Started!](https://hoodiegames.rf.gd)
+## [Let's Get Started!](http://www.hoodiegames.rf.gd/?i=1)
 ---
 ## My source code
 ### HTML
