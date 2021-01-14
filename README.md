@@ -226,7 +226,7 @@ footer {
 #box5 {background-image: url("../../tmp/5.jpg");background-size: 100%;background-position: center;}
 #box6 {background-image: url("../../tmp/6.jpg");background-size: 100%;background-position: center;}
 #box7 {background-image: url("../../tmp/7.jpg");background-size: 100%;background-position: center;}
-<!-- #box8 {background-image: url("../../tmp/8.jpg");background-size: 100%;background-position: center;}
+#box8 {background-image: url("../../tmp/8.jpg");background-size: 100%;background-position: center;}
 ```
 
 ### JavaScript
